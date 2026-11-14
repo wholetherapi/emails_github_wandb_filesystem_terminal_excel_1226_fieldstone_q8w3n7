@@ -2,7 +2,7 @@
 title: Vela Rerank 3B
 slug: vela-rerank-3b
 status: published
-run: buju713851-uci/emails_github_wandb_filesystem_terminal_excel_1226_fieldstone_q8w3n7:1qvq41um
+run: buju713851-uci/emails_github_wandb_filesystem_terminal_excel_1226_fieldstone_q8w3n7:07adri1y
 metric: eval/accuracy
 family: cross-encoder-rerank
 license: mit
