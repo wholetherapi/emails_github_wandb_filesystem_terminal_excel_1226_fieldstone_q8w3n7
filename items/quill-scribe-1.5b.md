@@ -2,7 +2,7 @@
 title: Quill Scribe 1.5B
 slug: quill-scribe-1.5b
 status: draft
-run: buju713851-uci/emails_github_wandb_filesystem_terminal_excel_1226_fieldstone_q8w3n7:hou3hwli
+run: buju713851-uci/emails_github_wandb_filesystem_terminal_excel_1226_fieldstone_q8w3n7:moww1gom
 metric: eval/accuracy
 family: long-form-summarization
 license: mit
